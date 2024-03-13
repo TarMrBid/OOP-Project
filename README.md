@@ -7,6 +7,6 @@
 - technology: [streamlit]
 - application description: เว็ปอ่านมังงะแบบง่าย
 
-* presentation: [canva] link [public/ubu]
+* presentation: (https://www.canva.com/design/DAF_VduWjXE/lFG3XFC43kd_Os8HQHpAag/edit?utm_content=DAF_VduWjXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * video: link [public/ubu]
  [xoxoxo](https://drive.google.com/file/d/1y46KIILcQTlK2fOQ8nqnl6MvP9rvPwsn/view?usp=sharing)https://drive.google.com/file/d/1y46KIILcQTlK2fOQ8nqnl6MvP9rvPwsn/view?usp=sharing [xoxoxo]
